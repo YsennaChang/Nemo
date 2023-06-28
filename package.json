@@ -1,0 +1,19 @@
+{
+  "name": "nemo",
+  "version": "1.0.0",
+  "description": "A derby focus Bot",
+  "main": "nemo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dory",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/local-auth": "^2.1.1",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.0.3",
+    "google-auth-library": "^8.8.0",
+    "googleapis": "^118.0.0",
+    "node-cache": "^5.1.2"
+  }
+}
